@@ -32,7 +32,7 @@ Recuerda que puedes buscar en YT como "multiple github accounts in a computer"
 Acuerdate que tus hosts son
 
 - `github.com` para TheMayanCitizen
-- `github.com-channel` para SoyMayaOfficial
+- `github.com-channel` para SMO 
 
 ```
 Host github.com-channel
